@@ -37,14 +37,14 @@ Ray-casting is 3d **rendering** algorithm which renders psuedo 3d world.
 
     python ray_casting.py
     
-<img src="./screenshots/2d.png">
+<img src="./screenshots/3d.png">
 
 ### To test 3D ray casting
 
     python rayCast3d.py
     # use "a, w, s, d" to control the agent
 
-<img src="./screenshots/3d.png">
+<img src="./screenshots/2d.png">
 
     
                 
