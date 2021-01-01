@@ -26,9 +26,10 @@ Ray-casting is 3d **rendering** algorithm which renders psuedo 3d world.
                 line = line_segment with height proportional to distance
                 render the above vertical line on canvas
                 
-## Here's How To Run The Codes:
 
-### Dependencies:
+##  Here's How To Run The Codes:
+***
+###  Dependencies:
 *  numpy
 *  opencv(cv2)
 
@@ -36,13 +37,14 @@ Ray-casting is 3d **rendering** algorithm which renders psuedo 3d world.
 
     python ray_casting.py
     
-<img source="./screenshots/2d.jpg">
+<img source="./screenshots/2d.png">
+
 ### To test 3D ray casting
 
     python rayCast3d.py
     # use "a, w, s, d" to control the agent
 
-<img source="./screenshots/2d.jpg">
+<img source="./screenshots/3d.png">
 
     
                 
