@@ -27,7 +27,7 @@ Ray-casting is 3d **rendering** algorithm which renders psuedo 3d world.
                 render the above vertical line on canvas
                 
 
-##  Here's How To Run The Codes:
+##  Usage
 ***
 ###  Dependencies:
 *  numpy
